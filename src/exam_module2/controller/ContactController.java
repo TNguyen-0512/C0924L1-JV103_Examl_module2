@@ -17,7 +17,7 @@ public class ContactController {
         this.scanner = new Scanner(System.in);
     }
 
-    // Hiển thị menu chính
+
     public void displayMenu() {
         int choice;
 
